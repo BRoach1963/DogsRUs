@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogsRUs", "DogsRUs\DogsRUs.csproj", "{CBE162A5-1822-411C-980B-97015C74AC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE162A5-1822-411C-980B-97015C74AC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE162A5-1822-411C-980B-97015C74AC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE162A5-1822-411C-980B-97015C74AC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE162A5-1822-411C-980B-97015C74AC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B138EF10-BA84-4275-87A5-82A6C938B196}
+	EndGlobalSection
+EndGlobal
